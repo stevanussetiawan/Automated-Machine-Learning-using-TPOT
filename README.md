@@ -1,0 +1,1 @@
+To develop a predictive model that accurately forecasts individual medical expenses based on a comprehensive set of variables. This model aids insurers in setting premiums, helps healthcare providers in budgeting and resource allocation, and enables patients to better anticipate their healthcare expenses.
